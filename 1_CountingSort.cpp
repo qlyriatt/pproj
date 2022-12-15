@@ -28,12 +28,12 @@ int main()
     std::vector<int> sorted_v;
     sorted_v.reserve(N);
 
-    for (int j = 0; j < M + 1; j++)
+    for (int i = 0; i < M + 1; i++)
     {
-        while (count.at(j))
+        while (count.at(i))
         {
-            sorted_v.push_back(j);
-            count.at(j)--;
+            sorted_v.push_back(i);
+            count.at(i)--;
         }
     }
 
