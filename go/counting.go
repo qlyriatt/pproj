@@ -9,7 +9,7 @@ import (
 const N int = 100
 const M int = 299
 
-func main() {
+func counting() {
 
 	var arr [N]int
 	rand.Seed(time.Now().Unix())
