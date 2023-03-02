@@ -1,0 +1,62 @@
+
+[24/11/11 09:49:57:538 EST]  DEBUG
+<?xml version="1.1" encoding="UTF-8" ?>
+<Request session="asdfadfasas3432423ewd3da" id=23243>
+<type>Balance</type>
+</Request>
+[24/11/11 10:50:57:538 EST]  DEBUG
+<?xml version="1.1" encoding="UTF-8" ?>
+<Request session="assasddsasd3r3r3r34r" id=dr5453>
+<type>Balance</type>
+</Request>
+[24/11/11 11:51:57:676 EST]  DEBUG
+<?xml version="1.1" encoding="UTF-8" ?>
+<Request session="sadsdasdasdas3332ed3xew" id=frre54>
+<type>Balance</type>
+</Request>
+[24/11/11 12:52:57:345 EST]  DEBUG
+<?xml version="1.1" encoding="UTF-8" ?>
+<Request session="sdsdfsdfldsfdsfsdfdsfsd" id=0596095>
+<type>Balance</type>
+</Request>
+[24/11/11 13:53:57:538 EST]  DEBUG
+<?xml version="1.1" encoding="UTF-8" ?>
+<Response session="asdfadfasas3432423ewd3da" id=23243>
+<data>3213,232</data>
+</Response>
+[24/11/11 14:49:57:768 EST]  DEBUG
+<?xml version="1.1" encoding="UTF-8" ?>
+<Request session="asdfadfasas3432423ewd3da" id=545645>
+<type>Withdrawal</type>
+<sum>123232</sum>
+</Request>
+[24/11/11 15:49:57:538 EST]  DEBUG
+<?xml version="1.1" encoding="UTF-8" ?>
+<Request session="asdsasdfdsfadfsdf" id=4343>
+<type>Withdrawal</type>
+<sum>123232</sum>
+</Request>
+[24/11/11 16:49:57:564 EST]  DEBUG
+<?xml version="1.1" encoding="UTF-8" ?>
+<Request session="sdsdfffldlsflldfsdfdshjhh" id=59549343>
+<type>Withdrawal</type>
+<sum>123232</sum>
+</Request>
+[24/11/11 17:49:57:538 EST]  DEBUG
+<?xml version="1.1" encoding="UTF-8" ?>
+<Response session="asdfadfasas3432423ewd3da" id=545645>
+<type>Withdrawal</type>
+<code>0000</code>
+</Response>
+[24/11/11 18:49:57:538 EST]  DEBUG
+<?xml version="1.1" encoding="UTF-8" ?>
+<Response session="adsfsdfdsfdsfdsfe3edew" id=4565>
+<type>Withdrawal</type>
+<code>0002</code>
+</Response>
+[24/11/11 19:49:57:538 EST]  DEBUG
+<?xml version="1.1" encoding="UTF-8" ?>
+<Response session="refrcsdcdssfewwe334desded" id=56456>
+<type>Withdrawal</type>
+<code>0003</code>
+</Response>
